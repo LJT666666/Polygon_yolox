@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zq@10.24.2.224:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="gdut2021@10.20.4.14:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gdut2021/ljt/POLYGON-YOLOX-1080/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="poly_1080">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ljt/POLYGON-YOLOX-1080" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="poly_3090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DynamicX/POLYGON-YOLOX-3090" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zq@10.24.2.224:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zq/DynamicX/POLYGON-YOLOX-3090" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

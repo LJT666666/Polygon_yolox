@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a7e6e09-93a6-4c26-b20f-0d83675f9e4e" name="poly_1080">
+        <fileTransfer rootFolder="/home/gdut2021" accessType="SFTP" host="10.20.4.14" port="22" sshConfigId="18d39c21-275c-4200-95bc-dc380f950204" sshConfig="gdut2021@10.20.4.14:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="de9af3c9-b709-44ca-b5bd-ffdd859aa949" name="poly_3090">
+        <fileTransfer rootFolder="/home/zq" accessType="SFTP" host="10.24.2.224" port="22" sshConfigId="0f2d79c5-c6df-4ec7-ba3f-39a4690e92ee" sshConfig="zq@10.24.2.224:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
